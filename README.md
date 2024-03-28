@@ -3,7 +3,8 @@
 ## Face_Recognition from Deep learning project
 
 
-file:///home/jin/Pictures/Screenshots/Screenshot%20from%202024-03-28%2013-52-39.png
+![Screenshot from 2024-03-28 13-52-39](https://github.com/Seajinbaek/Face_Recognition/assets/140477487/b2b3e3f1-5d39-474a-8fa9-60d465f71fb6)
+
 
 
 
