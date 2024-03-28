@@ -12,6 +12,7 @@
 
 
 
+![Screenshot from 2024-03-28 13-52-47](https://github.com/Seajinbaek/Face_Recognition/assets/140477487/a4004057-c1ee-4cb9-b903-3a28a86442dc)
 
 
 
@@ -19,14 +20,7 @@
 
 
 
-
-
-
-
-
-
-
-
+![Screenshot from 2024-03-28 13-52-50](https://github.com/Seajinbaek/Face_Recognition/assets/140477487/89b86a79-6900-4998-abc9-c13ee6e1aa21)
 
 
 
